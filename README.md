@@ -50,6 +50,15 @@ This code was developed in support of peer-reviewed research on spatial organiza
 
 Representative datasets and usage examples are included for transparency and reproducibility.
 
+## Related Publication
+
+This workflow was implemented and used in the following peer-reviewed study:
+
+Bogdanov V. et al.  
+*In silico engineered calmodulin improves cardiac ryanodine receptor regulation and reveals a new regulatory mechanism.*  
+Cardiovascular Research (2025).  
+https://pmc.ncbi.nlm.nih.gov/articles/PMC12641389/
+
 ## Status
 Actively used for research analysis at the time of development.  
 The repository is preserved as a record of the full analytical pipeline rather than a polished software release.
